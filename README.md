@@ -1,16 +1,18 @@
-## Hi there 👋
+🖐 Welcome to My Profile!
+👋 Hi there, I'm Sadman Hossain, a passionate developer who loves working with:
 
-<!--
-**ImpiusVenatus/ImpiusVenatus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Programming Languages:
 
-Here are some ideas to get you started:
+(Add badges for other languages you use)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frameworks and Tools:
+
+(Include other tools you work with)
+
+📊 GitHub Stats
+
+
+🔗 Let's Connect!
+🌐 Portfolio
+💼 LinkedIn
+🐦 Twitter
