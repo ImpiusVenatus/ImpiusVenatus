@@ -5,7 +5,7 @@ Here’s how you can format your tech stack for your GitHub `README.md`:
 
 Profile View
 
-![Profile Views](https://komarev.com/ghpvc/?username=YourUsername&color=blue&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=ImpiusVenatus&color=blue&style=flat)
 
 ---
 
