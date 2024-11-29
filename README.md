@@ -37,7 +37,7 @@ Here’s how you can format your tech stack for your GitHub `README.md`:
 
 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pronaaf2k&layout=compact&cache_seconds=60)
 
 🔗 Let's Connect!
 🌐 Portfolio
