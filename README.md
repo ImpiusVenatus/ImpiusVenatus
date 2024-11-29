@@ -10,7 +10,7 @@ Frameworks and Tools:
 (Include other tools you work with)
 
 📊 GitHub Stats
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
 
 🔗 Let's Connect!
 🌐 Portfolio
