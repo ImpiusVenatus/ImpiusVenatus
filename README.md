@@ -39,6 +39,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImpiusVenatus&layout=compact&cache_seconds=60)
 
+![Sadman's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImpiusVenatus&show_icons=true&theme=radical)
+
 🔗 Let's Connect!
 🌐 Portfolio
 💼 LinkedIn
