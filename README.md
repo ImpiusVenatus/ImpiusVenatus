@@ -35,9 +35,10 @@
 ### **Other Tools**  
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat) ![Sentry](https://img.shields.io/badge/-Sentry-362D59?logo=sentry&logoColor=white&style=flat) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat) ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&logoColor=white&style=flat)
 
-📊 GitHub Stats
-
+📊 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImpiusVenatus&layout=compact&cache_seconds=60)
+
+📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ImpiusVenatus&show_icons=true&theme=radical)
 
 🔗 Let's Connect!
