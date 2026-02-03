@@ -38,9 +38,15 @@
 ## Github Stats:
 <p align="center">
     <a href="https://github.com/ImpiusVenatus">
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=impiusvenatus&langs_count=12&layout=compact&langs_count=8&theme=onedark&include_all_commits=true&count_private=true&hide_border=true" />
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ImpiusVenatus&langs_count=12&layout=compact&langs_count=8&theme=onedark&include_all_commits=true&count_private=true&hide_border=true" />
     </a>
 </p>
+
+ <p align="center">
+   <a href="https://github.com/ImpiusVenatus"> 
+     <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=ImpiusVenatus&show_icons=true&locale=en&layout=demo&theme=Onedark&hide_border=true" /> 
+   </a>  
+ </p>
 
 🔗 Let's Connect!
 🌐 Portfolio
