@@ -36,12 +36,6 @@
     </a>
 </p>
 
- <p align="center">
-   <a href="https://github.com/ImpiusVenatus"> 
-     <img src="https://streak-stats.demolab.com?user=impisvenatus&theme=onedark&hide_border=true" alt="GitHub Streak Stats" />
-   </a>  
- </p>
-
 🔗 Let's Connect!
 <a href="https://sadman-hossain.vercel.app" target="_blank"> 🌐 Portfolio </a>
 <a href="https://www.linkedin.com/in/sadman-hossain-6504482a1" target="_blank"> 💼 LinkedIn </a>
