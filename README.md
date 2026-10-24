@@ -1,35 +1,26 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D9BED1,50:d2a8ff,100:79c0ff&height=200&section=header&text=Sadman%20Hossain&fontSize=62&fontColor=0d1117&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Web%20%E2%80%A2%20Mobile%20%E2%80%A2%20ML%2FAI&descAlignY=58&descSize=18" alt="Sadman Hossain"/>
+<p align="center">
+  <a href="https://sadman.shobyoshahi.com"><img src="./assets/header.svg" width="100%" alt="Sadman Hossain — Software Engineer / Web / Mobile / ML + AI"/></a>
+</p>
 
 <p align="center">
-  <a href="https://sadman.shobyoshahi.com">
-    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=D9BED1&center=true&vCenter=true&width=620&lines=Software+Engineer+%40+LabThree;Building+GenHealth+%F0%9F%A7%AC;React+%C2%B7+Next.js+%C2%B7+Vite+%C2%B7+Firebase;Web+%E2%86%92+Mobile+%E2%86%92+ML%2FAI" alt="Typing intro"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=D9BED1&center=true&vCenter=true&width=640&lines=I+build+things+for+the+web+%F0%9F%8C%90;...and+for+your+pocket+%F0%9F%93%B1;...and+teach+machines+to+see+%F0%9F%A7%A0;From+idea+%E2%86%92+deploy%2C+end+to+end+%F0%9F%9A%80" alt="Typing intro"/>
 </p>
 
 <p align="center">
   <a href="https://sadman.shobyoshahi.com"><img src="https://img.shields.io/badge/Portfolio-sadman.shobyoshahi.com-D9BED1?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/sadman-hossain-6504482a1"><img src="https://img.shields.io/badge/LinkedIn-Sadman%20Hossain-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/></a>
-  <a href="https://labthree.org"><img src="https://img.shields.io/badge/Now%20@-LabThree-d2a8ff?style=for-the-badge&logo=firebase&logoColor=FFCA28&labelColor=0d1117" alt="LabThree"/></a>
   <img src="https://komarev.com/ghpvc/?username=ImpiusVenatus&color=D9BED1&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0d1117" alt="Profile views"/>
 </p>
 
 <p align="center">
-  <img src="./assets/terminal.svg" width="100%" alt="$ whoami — Sadman Hossain, software engineer at LabThree working on GenHealth"/>
+  <img src="./assets/terminal.svg" width="100%" alt="$ whoami — Sadman Hossain, software engineer working across web, mobile and ML/AI"/>
 </p>
-
-## 🧬 Right now
-
-<p align="center">
-  <a href="https://labthree.org"><img src="./assets/genhealth-dna.svg" width="100%" alt="Currently building GenHealth at LabThree"/></a>
-</p>
-
-I'm a software engineer at **[LabThree](https://labthree.org)**, working on **GenHealth**: shipping product features with **React**, **Next.js** and **Vite** on top of **Firebase** and **Firestore**. Outside of work I build web apps, mobile apps and ML/AI projects.
 
 ## 🛠️ Toolbox
 
 <table align="center">
   <tr>
-    <td align="right"><b>⚡ Shipping daily</b><br/><sub>at LabThree</sub></td>
+    <td align="right"><b>⚡ Daily drivers</b></td>
     <td><img src="https://skillicons.dev/icons?i=react,nextjs,vite,firebase,ts,tailwind" alt="React, Next.js, Vite, Firebase, TypeScript, Tailwind"/><br/><sub>…with Firestore as the database</sub></td>
   </tr>
   <tr>
@@ -78,5 +69,3 @@ I'm a software engineer at **[LabThree](https://labthree.org)**, working on **Ge
 </p>
 
 <p align="center"><sub>🐍 a snake eats my contribution graph every day, so keep the commits coming</sub></p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:79c0ff,50:d2a8ff,100:D9BED1&height=120&section=footer" alt="footer"/>
