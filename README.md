@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=D9BED1&center=true&vCenter=true&width=640&lines=I+build+things+for+the+web+%F0%9F%8C%90;...and+for+your+pocket+%F0%9F%93%B1;...and+teach+machines+to+see+%F0%9F%A7%A0;From+idea+%E2%86%92+deploy%2C+end+to+end+%F0%9F%9A%80" alt="Typing intro"/>
+  <img src="./assets/typing.svg" alt="I build things for the web, for your pocket, teach machines to see — from idea to deploy, end to end"/>
 </p>
 
 <p align="center">
