@@ -20,31 +20,31 @@
 
 <table align="center">
   <tr>
-    <td align="right"><b>⚡ Daily drivers</b></td>
-    <td><img src="https://skillicons.dev/icons?i=react,nextjs,vite,firebase,ts,tailwind" alt="React, Next.js, Vite, Firebase, TypeScript, Tailwind"/><br/><sub>…with Firestore as the database</sub></td>
+    <td align="right"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/labels/daily-light.svg"/><img src="./assets/labels/daily-dark.svg" alt="Daily drivers"/></picture></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,vite,firebase,ts,tailwind" alt="React, Next.js, Vite, Firebase, TypeScript, Tailwind"/></td>
   </tr>
   <tr>
-    <td align="right"><b>🎨 Frontend</b></td>
+    <td align="right"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/labels/frontend-light.svg"/><img src="./assets/labels/frontend-dark.svg" alt="Frontend"/></picture></td>
     <td><img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,bootstrap,react,nextjs,vue,vite" alt="Frontend"/></td>
   </tr>
   <tr>
-    <td align="right"><b>⚙️ Backend</b></td>
+    <td align="right"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/labels/backend-light.svg"/><img src="./assets/labels/backend-dark.svg" alt="Backend"/></picture></td>
     <td><img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express,firebase,mongodb,postgres,mysql" alt="Backend"/></td>
   </tr>
   <tr>
-    <td align="right"><b>📱 Mobile</b></td>
+    <td align="right"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/labels/mobile-light.svg"/><img src="./assets/labels/mobile-dark.svg" alt="Mobile"/></picture></td>
     <td><img src="https://skillicons.dev/icons?i=flutter,dart,kotlin" alt="Mobile"/></td>
   </tr>
   <tr>
-    <td align="right"><b>🧠 ML / AI</b></td>
+    <td align="right"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/labels/ml-light.svg"/><img src="./assets/labels/ml-dark.svg" alt="ML / AI"/></picture></td>
     <td><img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv" alt="ML and AI"/></td>
   </tr>
   <tr>
-    <td align="right"><b>☁️ DevOps &amp; Cloud</b></td>
+    <td align="right"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/labels/devops-light.svg"/><img src="./assets/labels/devops-dark.svg" alt="DevOps & Cloud"/></picture></td>
     <td><img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions,docker,vercel,aws,gcp,linux" alt="DevOps and Cloud"/></td>
   </tr>
   <tr>
-    <td align="right"><b>🧰 Tools</b></td>
+    <td align="right"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/labels/tools-light.svg"/><img src="./assets/labels/tools-dark.svg" alt="Tools"/></picture></td>
     <td><img src="https://skillicons.dev/icons?i=npm,figma,vscode,postman,discord" alt="Tools"/></td>
   </tr>
 </table>
